@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alen Alex
+- 👋 Hi, I’m @AlenAlex
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning coding and working in a company
 - 💞️ I’m looking to help me with my projects and guide me 
